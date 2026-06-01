@@ -11,6 +11,10 @@ Keel is an early public research project from NavigicAI. This repository is the
 curated public home for reviewed research notes, benchmark maps, methodology,
 and public-safe examples for personal-agent evaluation.
 
+Keel is part of [NavigicAI's public research program](https://navigic.ai/research),
+which studies memory, delegated action, visible control, and trust in AI-native
+workspaces.
+
 ## Why Keel Exists
 
 Final-answer benchmarks miss many of the failures that matter for personal
